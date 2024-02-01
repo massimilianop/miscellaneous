@@ -1,1 +1,1 @@
-This repositorz contains some exercises, tests and experiments.
+This repository contains some exercises, tests and experiments.
